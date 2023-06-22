@@ -24,8 +24,5 @@ function generateNumber() {
         span.style.visibility = 'visible'
         result.innerHTML = `${randon}`
     }
-
-    
-
-}
+  }
 
